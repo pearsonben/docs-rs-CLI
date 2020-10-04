@@ -1,0 +1,17 @@
+[package]
+name = "docs_cli_browser"
+version = "0.1.0"
+authors = ["pearsonben98 <pearsonben98@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.8.5"
+select = "0.5.0"
+scraper = "0.12.0"
+
+
+
+
+
